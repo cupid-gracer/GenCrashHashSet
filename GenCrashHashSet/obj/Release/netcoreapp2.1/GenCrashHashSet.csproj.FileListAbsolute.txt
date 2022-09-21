@@ -1,0 +1,11 @@
+E:\01_visual_studio\01_C#\GenCrashHashSet\GenCrashHashSet\bin\Release\netcoreapp2.1\GenCrashHashSet.deps.json
+E:\01_visual_studio\01_C#\GenCrashHashSet\GenCrashHashSet\bin\Release\netcoreapp2.1\GenCrashHashSet.runtimeconfig.json
+E:\01_visual_studio\01_C#\GenCrashHashSet\GenCrashHashSet\bin\Release\netcoreapp2.1\GenCrashHashSet.runtimeconfig.dev.json
+E:\01_visual_studio\01_C#\GenCrashHashSet\GenCrashHashSet\bin\Release\netcoreapp2.1\GenCrashHashSet.dll
+E:\01_visual_studio\01_C#\GenCrashHashSet\GenCrashHashSet\bin\Release\netcoreapp2.1\GenCrashHashSet.pdb
+E:\01_visual_studio\01_C#\GenCrashHashSet\GenCrashHashSet\obj\Release\netcoreapp2.1\GenCrashHashSet.csproj.CoreCompileInputs.cache
+E:\01_visual_studio\01_C#\GenCrashHashSet\GenCrashHashSet\obj\Release\netcoreapp2.1\GenCrashHashSet.AssemblyInfoInputs.cache
+E:\01_visual_studio\01_C#\GenCrashHashSet\GenCrashHashSet\obj\Release\netcoreapp2.1\GenCrashHashSet.AssemblyInfo.cs
+E:\01_visual_studio\01_C#\GenCrashHashSet\GenCrashHashSet\obj\Release\netcoreapp2.1\GenCrashHashSet.dll
+E:\01_visual_studio\01_C#\GenCrashHashSet\GenCrashHashSet\obj\Release\netcoreapp2.1\GenCrashHashSet.pdb
+E:\01_visual_studio\01_C#\GenCrashHashSet\GenCrashHashSet\obj\Release\netcoreapp2.1\GenCrashHashSet.csprojAssemblyReference.cache
